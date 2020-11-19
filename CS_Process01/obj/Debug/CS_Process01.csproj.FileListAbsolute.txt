@@ -1,0 +1,8 @@
+C:\Users\jashliao\Desktop\CS_Process_ProcessStartInfo\CS_Process01\bin\Debug\CS_Process01.exe.config
+C:\Users\jashliao\Desktop\CS_Process_ProcessStartInfo\CS_Process01\bin\Debug\CS_Process01.exe
+C:\Users\jashliao\Desktop\CS_Process_ProcessStartInfo\CS_Process01\bin\Debug\CS_Process01.pdb
+C:\Users\jashliao\Desktop\CS_Process_ProcessStartInfo\CS_Process01\obj\Debug\CS_Process01.Properties.Resources.resources
+C:\Users\jashliao\Desktop\CS_Process_ProcessStartInfo\CS_Process01\obj\Debug\CS_Process01.csproj.GenerateResource.Cache
+C:\Users\jashliao\Desktop\CS_Process_ProcessStartInfo\CS_Process01\obj\Debug\CS_Process01.exe
+C:\Users\jashliao\Desktop\CS_Process_ProcessStartInfo\CS_Process01\obj\Debug\CS_Process01.pdb
+C:\Users\jashliao\Desktop\CS_Process_ProcessStartInfo\CS_Process01\obj\Debug\CS_Process01.Form1.resources
