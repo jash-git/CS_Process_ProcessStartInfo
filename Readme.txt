@@ -1,0 +1,5 @@
+C# 使用 Process和ProcessStartInfo達到A程式呼叫B程式[CS_Process_ProcessStartInfo]
+
+A程式呼叫B程式時傳送參數，並等待B程式執行結束
+
+B程式執行結束後，A程式讀取執行結果
